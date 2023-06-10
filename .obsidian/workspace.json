@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "261bd081b1216239",
+        "id": "6586e1a3f4a10660",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f071ef69ab2053",
+            "id": "399d2998cfda4ef1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "q11.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495c4dce27240bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BenjaminCampbell_T2A1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "30eaa225f50be47a",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BenjaminCampbell_T2A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BenjaminCampbell_T2A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BenjaminCampbell_T2A1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "495c4dce27240bd2",
+  "active": "399d2998cfda4ef1",
   "lastOpenFiles": [
-    "q3.md",
+    "q11.md",
     "BenjaminCampbell_T2A1.md",
-    "q2.md",
+    "q9.md",
+    "q7.md",
+    "q6.md",
+    "q5.md",
+    "q4.md",
     "q1.md",
-    "q11.md"
+    "q3.md",
+    "q2.md"
   ]
 }
